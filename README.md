@@ -43,8 +43,8 @@ class StudentAdmin(admin.ModelAdmin):
 
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/6e558352-95d1-4b26-b4f9-40eada99a4eb)
 
-![alt text](<Screenshot (29).png>)
 
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
